@@ -11,6 +11,7 @@ function draw() {
   drawCow();
   drawEnderMite();
   drawSlime();
+  drawDragonandStrider();
 }
 
 function drawWitherSkelly() {
@@ -183,3 +184,206 @@ function drawSlime() {
   
   translate(0, 0);
 }
+
+
+function drawDragonandStrider() {
+  translate(600, 400);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+ translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+   translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+   translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+   translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+   translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+   translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+
+//
+//Strider now
+//
+  
+  translate(-400,-375);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(0,25);
+  noStroke(0);
+  fill(0, 0, 0);
+  square(0, 0, 25);
+  square(25, 0, 25);
+  square(50, 0, 25);
+  square(75, 0, 25);
+  square(100, 0, 25);
+  square(125, 0, 25);
+  square(150, 0, 25);
+  square(175, 0, 25);
+  
+  translate(-200, -375);
+
+}
+
